@@ -1,5 +1,5 @@
 resource "azurerm_postgresql_server" "example" {
-  name                         = "example-psqlserver"
+  name                         = "example-psqlserver2"
   location                     = "eastus"
   resource_group_name          = "main_resource_group"
   administrator_login          = "psqladminun"
